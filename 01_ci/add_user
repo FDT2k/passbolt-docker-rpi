@@ -1,0 +1,2 @@
+#/bin/bash
+docker exec passbolt_raspberrypi_passbolt_1  su -m -c "/var/www/passbolt/bin/cake passbolt register_user -u fabien@karsegard.ch -f Fabien -l Karsegard -r admin" -s /bin/sh www-data

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+docker build -t tchak2k/docker-passbolt:rpi4 passbolt_docker
+
+docker push tchak2k/docker-passbolt:rpi4

@@ -1,0 +1,3 @@
+[submodule "passbolt_docker"]
+	path = passbolt_docker
+	url = https://github.com/FDT2k/passbolt_docker.git
