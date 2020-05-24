@@ -1,2 +1,2 @@
 
-gpgenv ~/Security/EnvFiles/passbolt/mysql.env.gpg gpgenv ~/Security/EnvFiles/passbolt/passbolt.env.gpg docker-compose up
+gpgenv ~/Security/EnvFiles/passbolt/mysql.env.gpg gpgenv ~/Security/EnvFiles/passbolt/passbolt.env.gpg docker-compose up -d
